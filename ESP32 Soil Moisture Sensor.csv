@@ -1,0 +1,8 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"SW1";"SW4_FSM8JSMASTR_TEC";1;"FSM8JSMASTR";;;
+2;"J3,J1";"FanPinHeader_1x04_P2.54mm_Vertical";2;"Conn_01x04_Socket";;;
+3;"J2";"CONN_S2B-PH-K-S_JST";1;"S2B-PH-K-SLFSN";;;
+4;"C3,C1";"C_0201_0603Metric";2;"0.1uF";;;
+5;"U1";"ESP32-WROVER-E";1;"ESP32-WROVER-E";;;
+6;"C2";"C_0201_0603Metric";1;"10uF";;;
+7;"R1";"R_0201_0603Metric";1;"10k";;;

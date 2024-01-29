@@ -1,0 +1,15 @@
+### Footprint positions - created on Sat Jan 27 18:33:14 2024 ###
+### Printed by KiCad version 7.0.8
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref     Val                Package                                  PosX       PosY       Rot  Side
+J2        S2B-PH-K-SLFSN     CONN_S2B-PH-K-S_JST                   29.8951   117.0174  180.0000  bottom
+J3        Conn_01x04_Socket  FanPinHeader_1x04_P2.54mm_Vertical    31.8400    85.3800   90.0000  bottom
+C1        0.1uF              C_0201_0603Metric                      2.0050   111.3200   90.0000  top
+C2        10uF               C_0201_0603Metric                      2.0050   109.5700   90.0000  top
+C3        0.1uF              C_0201_0603Metric                      2.0050   105.1450   90.0000  top
+J1        Conn_01x04_Socket  FanPinHeader_1x04_P2.54mm_Vertical    30.0000    98.3800   90.0000  top
+R1        10k                R_0201_0603Metric                      2.0050   107.3400  -90.0000  top
+SW1       FSM8JSMASTR        SW4_FSM8JSMASTR_TEC                   21.4000    83.0000    0.0000  top
+U1        ESP32-WROVER-E     ESP32-WROVER-E                        13.9200   105.4350    0.0000  top
+## End
