@@ -1,0 +1,1 @@
+Kicad schematic and board design for a soil moisture reader using the ESP32-WROVER. It includes one 4x1 header that will allow for programming the ESP32 and another 4x1 header to attach a SDD1306 OLED display. There is also a switch that will allow the user to manually scan the soil.
